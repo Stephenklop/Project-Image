@@ -1,0 +1,11 @@
+.menubar {
+  width: 100vw;
+  padding: 1.5rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  &__logo {
+    width: 2rem;
+  }
+}
